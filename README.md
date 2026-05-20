@@ -1,6 +1,6 @@
 # Home Automation Using Bluetooth Interface
 
-![Home Automation Banner](Images/front-page.png)
+![Home Automation Banner](Images/test/front-page.png)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/cloudman792/design-and-construction-of-a-prototype-home-automation-using-Bluetooth-interface)
 ![GitHub stars](https://img.shields.io/github/stars/cloudman792/design-and-construction-of-a-prototype-home-automation-using-Bluetooth-interface)
@@ -68,7 +68,7 @@ The system consists of:
 - Servo motor
 - Mobile device for wireless control
 
-![System Architecture](Images/schematic diagram of the project.png)
+![System Architecture](Images/test/schematic diagram of the project.png)
 
 ---
 
@@ -106,8 +106,8 @@ The system consists of:
 The diagram below shows the connection between the Arduino board, Bluetooth module, sensors, and output devices. The circuit diagram is designed with output to two extra servor motor bacause of future improvements to the prototype and but one servo motor was used to reduce cost
 
 
-![Circuit Diagram](Images/circuit diagram transferred on vero board.png)
-
+![Circuit Diagram](circuit-diagram/circuit diagram.png)
+![Circuit Diagram](immage/circuit diagram transferred on vero board.png)
 ---
 
 # Installation
