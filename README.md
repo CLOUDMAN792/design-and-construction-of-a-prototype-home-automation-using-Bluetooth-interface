@@ -1,6 +1,6 @@
 # Home Automation Using Bluetooth Interface
 
-![Home Automation Banner](Images/test/front-page.jpg)
+![Home Automation Banner](Images/front-page.jpg)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/cloudman792/design-and-construction-of-a-prototype-home-automation-using-Bluetooth-interface)
 ![GitHub stars](https://img.shields.io/github/stars/cloudman792/design-and-construction-of-a-prototype-home-automation-using-Bluetooth-interface)
@@ -68,7 +68,7 @@ The system consists of:
 - Servo motor
 - Mobile device for wireless control
 
-![System Architecture](Images/test/schematic diagram of the project.png)
+![System Architecture](Images/schematicdiagramoftheproject.png)
 
 ---
 
