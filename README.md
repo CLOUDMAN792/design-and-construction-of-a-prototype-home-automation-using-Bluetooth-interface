@@ -108,7 +108,7 @@ The diagram below shows the connection between the Arduino board, Bluetooth modu
 
 ![Circuit Diagram](circuit-diagram/circuitdiagram.png)
 
-![Circuit Diagram](image/circuitdiagramtransferredonveroboard.png)
+![Circuit Diagram](images/real-circuit.png)
 ---
 
 # Installation
@@ -173,34 +173,28 @@ Home-Automation-Bluetooth/
 
 ## Prototype Design
 
-![Prototype](images/prototype.jpg)
+![Prototype](images/prototype.png)
 
-## Hardware Setup
 
-![Hardware Setup](images/pictureofthefinishedproject.png)
-
----
 
 # Testing
 
-# Testing and report 
 
-Turn off the switch of the prototype home automation
-Turn on the bluetooth of your andriod phone
-search for new bluetooth device from your andriod phone . you will find a bluetooth device with the name HC-05
-Click on the connect/pair device option. The default pin for HC-05 is 1234 or 0000
-After connceting to bluetooth module HC-05, open the home automation app on the andriod phone
-Click connect to Arduino . after few seconds the app connects to the Arduino
-Then the user can turn on/off the toilet , sitting room and dinning room, kitchen and bedroom light by clicking on each and every room's off and on button
-the door can be opened by clicking on the door open button and closed by the door close button 
-The user can disconnect the bluetooth by clicking the disconnect Arduino in the app
+- Turn off the switch of the prototype home automation
+- Turn on the bluetooth of your andriod phone
+- search for new bluetooth device from your andriod phone . you will find a bluetooth device with the name HC-05
+- Click on the connect/pair device option. The default pin for HC-05 is 1234 or 0000
+ After connceting to bluetooth module HC-05, open the home automation app on the andriod phone
+ Click connect to Arduino . after few seconds the app connects to the Arduino
+ Then the user can turn on/off the toilet , sitting room and dinning room, kitchen and bedroom light by clicking on each and every room's off and on button
+ the door can be opened by clicking on the door open button and closed by the door close button 
+ The user can disconnect the bluetooth by clicking the disconnect Arduino in the app
 
 
 ---
 
 #  Challenges Faced
-
-# Challenges encountered 
+ 
 
 when the construction of the project started, PIC16F690 was first used which the PIC does'nt support serial communication when using MIKROC IDE. Then, the PIC was changed to PIC16F887A which works fine and perfect with the project but it is big and expensive, so i had to leave it and pick another IC.
 Then i decided to use Arduino for the project. Arduino has an IC whuch is ATMEGA320P . 
@@ -219,9 +213,9 @@ The construction has other numerous difficulties during construction process. so
 The project successfully achieved:
 
 - Wireless control of appliances. 
-![light on/off](images/test/lightonandlightoff.jpg)
+![light on/off](images/lighttest.png)
 
-![door open and close](images/test/doortest.jpg)
+![door open and close](images/doortest.jpg)
 
 - Automatic security lighting
 
