@@ -217,16 +217,21 @@ The project successfully achieved:
 
 ![door open and close](images/doortest.jpg)
 
-# bluetooth app
+# Bluetooth app
 
+## Add button setup page
 ![add button setup page](images/addbuttonsetuppage.png)
 
+## Download the app from playstore
 ![downloaded the app from playstore](images/downloadedtheappfromplaystore.png)
 
+## Show the bluetooth connection to the arduino
 ![shows the bluetooth connection to the arduino](images/showsthebluetoothconnectiontothearduino.png)
 
-![the button set up page](images/thebuttonsetuppage.png)
+## The button setup page
+![the button setup page](images/thebuttonsetuppage.png)
 
+## The update button set up
 ![update button setup page](images/updatebuttonsetuppage.png)
 
 - Automatic security lighting
