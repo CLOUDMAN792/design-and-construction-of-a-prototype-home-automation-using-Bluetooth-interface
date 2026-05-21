@@ -1,6 +1,6 @@
 # Home Automation Using Bluetooth Interface
 
-![Home Automation Banner](Images/front-page.jpg)
+![Home Automation Banner](Images/front-page.png)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/cloudman792/design-and-construction-of-a-prototype-home-automation-using-Bluetooth-interface)
 ![GitHub stars](https://img.shields.io/github/stars/cloudman792/design-and-construction-of-a-prototype-home-automation-using-Bluetooth-interface)
