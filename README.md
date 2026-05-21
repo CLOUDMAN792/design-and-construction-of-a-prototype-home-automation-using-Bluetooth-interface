@@ -1,6 +1,6 @@
 # Home Automation Using Bluetooth Interface
 
-![Home Automation Banner](Images/front-page.png)
+![Home Automation Banner](images/front-page.png)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/cloudman792/design-and-construction-of-a-prototype-home-automation-using-Bluetooth-interface)
 ![GitHub stars](https://img.shields.io/github/stars/cloudman792/design-and-construction-of-a-prototype-home-automation-using-Bluetooth-interface)
@@ -68,7 +68,7 @@ The system consists of:
 - Servo motor
 - Mobile device for wireless control
 
-![System Architecture](Images/schematicdiagramoftheproject.png)
+![System Architecture](images/schematicdiagramoftheproject.png)
 
 ---
 
@@ -173,11 +173,11 @@ Home-Automation-Bluetooth/
 
 ## Prototype Design
 
-![Prototype](Images/prototype.jpg)
+![Prototype](images/prototype.jpg)
 
 ## Hardware Setup
 
-![Hardware Setup](Images/pictureofthefinishedproject.png)
+![Hardware Setup](images/pictureofthefinishedproject.png)
 
 ---
 
@@ -219,9 +219,9 @@ The construction has other numerous difficulties during construction process. so
 The project successfully achieved:
 
 - Wireless control of appliances. 
-![light on/off](Images/test/lightonandlightoff.jpg)
+![light on/off](images/test/lightonandlightoff.jpg)
 
-![door open and close](Images/test/doortest.jpg)
+![door open and close](images/test/doortest.jpg)
 
 - Automatic security lighting
 
