@@ -1,6 +1,6 @@
 # Home Automation Using Bluetooth Interface
 
-![Home Automation Banner](Images/test/front-page.jpg)
+![Home Automation Banner](Images/front-page.jpg)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/cloudman792/design-and-construction-of-a-prototype-home-automation-using-Bluetooth-interface)
 ![GitHub stars](https://img.shields.io/github/stars/cloudman792/design-and-construction-of-a-prototype-home-automation-using-Bluetooth-interface)
@@ -68,7 +68,7 @@ The system consists of:
 - Servo motor
 - Mobile device for wireless control
 
-![System Architecture](Images/test/schematic diagram of the project.png)
+![System Architecture](Images/schematicdiagramoftheproject.png)
 
 ---
 
@@ -105,14 +105,10 @@ The system consists of:
 
 The diagram below shows the connection between the Arduino board, Bluetooth module, sensors, and output devices. The circuit diagram is designed with output to two extra servor motor bacause of future improvements to the prototype and but one servo motor was used to reduce cost
 
-# images
 
-![Home Automation Banner](Images/test/front-page.jpg)
+![Circuit Diagram](circuit-diagram/circuitdiagram.png)
 
-
-![Circuit Diagram](circuit-diagram/circuit diagram.png)
-
-![Circuit Diagram](image/circuit diagram transferred on vero board.png)
+![Circuit Diagram](image/circuitdiagramtransferredonveroboard.png)
 ---
 
 # Installation
@@ -181,7 +177,7 @@ Home-Automation-Bluetooth/
 
 ## Hardware Setup
 
-![Hardware Setup](Images/picture of the finished project.png)
+![Hardware Setup](Images/pictureofthefinishedproject.png)
 
 ---
 
@@ -223,9 +219,9 @@ The construction has other numerous difficulties during construction process. so
 The project successfully achieved:
 
 - Wireless control of appliances. 
-![light on/off](Images/test/light on and light off.jpg)
+![light on/off](Images/test/lightonandlightoff.jpg)
 
-![door open and close](Images/test/light on and light off.jpg)
+![door open and close](Images/test/doortest.jpg)
 
 - Automatic security lighting
 
